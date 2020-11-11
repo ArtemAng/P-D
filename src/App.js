@@ -10,10 +10,10 @@ function App() {
   return (
     <div className="App">
       <ReactPageScroller ref={c => this.reactPageScroller = c} >
-        <Slide str={'slide 1'} color={'red'} />
-        <Slide str={'slide 2'} чcolor={'green'} />
-        <Slide str={'slide 3'} color={'blue'} />
-        <Slide str={'slide 4'} color={'pink'} />
+        <Slide modelName={'Model F'} />
+        <Slide modelName={'Model U'} />
+        <Slide modelName={'Model C'} />
+        <Slide modelName={'Model K'} />
       </ReactPageScroller>
     </div>
   );

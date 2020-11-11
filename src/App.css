@@ -1,4 +1,13 @@
+.header{
+  width: 200px;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 48px;
+}
 
-.assd{
-  height: 100vh;
+body{
+  overflow:  hidden;
+}
+.slide{
+ 
 }
